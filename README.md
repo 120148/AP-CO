@@ -2,4 +2,15 @@
 project 
 <h>This is a title</h>
 
-<p> </p>
+# Max
+What is the cause of plane crashes as time changes?
+
+How has plane types affect the plane crash rate?
+
+How has carrying rate of people affect the crash rate as time progress?
+
+What types of planes result in higher crash rates as their carrying capacity changes?
+
+How has air space and wars affect the plane crash rate as oppose to peace time crash rates??
+
+# Adrian 
